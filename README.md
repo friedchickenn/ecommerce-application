@@ -129,15 +129,48 @@ frontend/
 ## Screenshot Aplikasi
 > Berikut beberapa tampilan aplikasi:
 
-![Home](screenshots/home.png)
-![Shop](screenshots/shop.png)
-![Bag](screenshots/bag.png)
-![Favorites](screenshots/favorites.png)
-![Profile](screenshots/profile.png)
-![Product Detail](screenshots/product-detail.png)
-![Login](screenshots/login.png)
-![Signup](screenshots/signup.png)
-![Forgot Password](screenshots/forgot-password.png)
+## Penjelasan Setiap Halaman
+
+### Login
+Halaman untuk masuk ke aplikasi. Pengguna memasukkan email dan password, serta dapat memilih login dengan sosial media.
+![Login](assets/screenshots/login.jpg)
+
+### Signup
+Halaman pendaftaran akun baru. Pengguna mengisi data diri, email, dan password untuk membuat akun baru.
+![Signup](assets/screenshots/signup.jpg)
+
+### Forgot Password
+Halaman untuk mengatur ulang password jika pengguna lupa. Cukup masukkan email, instruksi reset akan dikirimkan.
+![Forgot Password](assets/screenshots/forgotpswd.jpg)
+
+### Home
+Halaman utama berisi banner, kategori, dan produk rekomendasi. Pengguna dapat langsung melihat promo dan produk unggulan.
+![Home](assets/screenshots/home1.jpg)
+![Home](assets/screenshots/home2.jpg)
+![Home](assets/screenshots/home3.jpg)
+
+### Shop
+Menampilkan daftar produk, filter kategori, pencarian, dan sorting. Pengguna dapat mencari produk, memilih kategori, dan mengurutkan hasil sesuai kebutuhan.
+![Shop](assets/screenshots/shop1.jpg)
+![Shop](assets/screenshots/shop2.jpg)
+
+### Bag (Keranjang)
+Menampilkan produk yang sudah ditambahkan ke keranjang. Pengguna dapat mengubah jumlah, menghapus produk, dan melanjutkan ke proses checkout.
+![Bag](assets/screenshots/bag.jpg)
+
+### Favorites (Wishlist)
+Menampilkan produk favorit yang disimpan pengguna. Produk di sini dapat dipindahkan ke keranjang atau dihapus dari daftar favorit.
+![Favorites](assets/screenshots/favorites.jpg)
+
+### Profile
+Menampilkan info pengguna, avatar, email, dan menu navigasi seperti pesanan, alamat, metode pembayaran, promo, ulasan, dan pengaturan akun.
+![Profile](assets/screenshots/profile.jpg)
+
+### Product Detail
+Menampilkan detail produk: gambar, deskripsi, harga, rating, pilihan size dan warna, serta tombol untuk menambah ke keranjang. Gambar produk dapat digeser untuk melihat lebih detail.
+![Product Detail](assets/screenshots/detailproduk.jpg)
+![Product Detail](assets/screenshots/size.jpg)
+![Product Detail](assets/screenshots/color.jpg)
 
 ---
 
