@@ -1,58 +1,19 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 # Ecommerce Application (Frontend)
 
+## Kelompok (nda tau kelompok berapa)
+### Erika Yanti (105841104322)
+### Arsifah Ainun Aulia (105841106122)
+### Tegar Surya Prayoga (105841106222)
+
 ## Deskripsi
-Aplikasi mobile ecommerce modern berbasis React Native & Expo, dirancang untuk pengalaman belanja yang intuitif dan responsif. Fitur utama meliputi browsing produk, manajemen keranjang, wishlist, autentikasi, dan checkout.
+Ecommerce Application adalah aplikasi mobile modern berbasis React Native & Expo yang dirancang untuk memberikan pengalaman belanja online yang lengkap, mudah, dan nyaman bagi pengguna. Aplikasi ini memungkinkan pengguna untuk menjelajahi berbagai produk fashion, elektronik, dan kebutuhan sehari-hari, dengan fitur pencarian, filter kategori, dan rekomendasi produk.
+
+Pengguna dapat melakukan registrasi dan login untuk mengakses seluruh fitur, seperti menambah produk ke keranjang belanja, menyimpan produk favorit ke wishlist, serta melakukan checkout dan pembayaran. Setiap produk memiliki halaman detail yang menampilkan gambar, deskripsi, harga, rating, pilihan ukuran dan warna, serta ulasan dari pengguna lain.
+
+Selain itu, aplikasi ini menyediakan halaman profil untuk mengelola data pribadi, alamat pengiriman, metode pembayaran, riwayat pesanan, dan pengaturan akun. UI aplikasi didesain modern dan responsif, mirip dengan aplikasi ecommerce populer, sehingga mudah digunakan oleh semua kalangan.
+
+Fitur keamanan seperti autentikasi dan penyimpanan data lokal menggunakan Context API dan AsyncStorage memastikan data pengguna tetap aman dan privat. Aplikasi ini juga mendukung integrasi dengan sosial media untuk login cepat dan memiliki tampilan yang menarik berkat penggunaan icon custom dan efek gradien.
 
 ## Fitur Utama
 - Autentikasi (Login, Signup, Lupa Password)
