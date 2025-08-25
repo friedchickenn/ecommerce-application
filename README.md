@@ -129,6 +129,22 @@ frontend/
 ## Screenshot Aplikasi
 > Berikut beberapa tampilan aplikasi:
 
+<p align="center">
+  <img src="screenshots/home.png" alt="Home" width="140" />
+  <img src="screenshots/shop.png" alt="Shop" width="140" />
+  <img src="screenshots/bag.png" alt="Bag" width="140" />
+</p>
+<p align="center">
+  <img src="screenshots/favorites.png" alt="Favorites" width="140" />
+  <img src="screenshots/profile.png" alt="Profile" width="140" />
+  <img src="screenshots/product-detail.png" alt="Product Detail" width="140" />
+</p>
+<p align="center">
+  <img src="screenshots/login.png" alt="Login" width="140" />
+  <img src="screenshots/signup.png" alt="Signup" width="140" />
+  <img src="screenshots/forgot-password.png" alt="Forgot Password" width="140" />
+</p>
+
 ## Penjelasan Setiap Halaman
 
 ### Login
