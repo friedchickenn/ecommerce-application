@@ -155,6 +155,7 @@ Menampilkan daftar produk, filter kategori, pencarian, dan sorting. Pengguna dap
 
 ### Bag (Keranjang)
 Menampilkan produk yang sudah ditambahkan ke keranjang. Pengguna dapat mengubah jumlah, menghapus produk, dan melanjutkan ke proses checkout.
+
 <img src="assets/screenshots/bag.jpg" alt="Bag" width="120" />
 
 ### Favorites (Wishlist)
