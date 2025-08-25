@@ -130,39 +130,47 @@ frontend/
 
 ### Login
 Halaman untuk masuk ke aplikasi. Pengguna memasukkan email dan password, serta dapat memilih login dengan sosial media.
-<img src="assets/screenshots/login.jpg" alt="Login" width="100" />
+
+<img src="assets/screenshots/login.jpg" alt="Login" width="120" />
 
 ### Signup
 Halaman pendaftaran akun baru. Pengguna mengisi data diri, email, dan password untuk membuat akun baru.
-<img src="assets/screenshots/signup.jpg" alt="Signup" width="100" />
+
+<img src="assets/screenshots/signup.jpg" alt="Signup" width="120" />
 
 ### Forgot Password
 Halaman untuk mengatur ulang password jika pengguna lupa. Cukup masukkan email, instruksi reset akan dikirimkan.
-<img src="assets/screenshots/forgotpswd.jpg" alt="Forgot Password" width="100" />
+
+<img src="assets/screenshots/forgotpswd.jpg" alt="Forgot Password" width="120" />
 
 ### Home
 Halaman utama berisi banner, kategori, dan produk rekomendasi. Pengguna dapat langsung melihat promo dan produk unggulan.
-<img src="assets/screenshots/home1.jpg" alt="Home1" width="100" /> <img src="assets/screenshots/home2.jpg" alt="Home2" width="100" /> <img src="assets/screenshots/home3.jpg" alt="Home3" width="100" />
+
+<img src="assets/screenshots/home1.jpg" alt="Home1" width="120" /> <img src="assets/screenshots/home2.jpg" alt="Home2" width="120" /> <img src="assets/screenshots/home3.jpg" alt="Home3" width="120" />
 
 ### Shop
 Menampilkan daftar produk, filter kategori, pencarian, dan sorting. Pengguna dapat mencari produk, memilih kategori, dan mengurutkan hasil sesuai kebutuhan.
-<img src="assets/screenshots/shop1.jpg" alt="Shop1" width="100" /> <img src="assets/screenshots/shop2.jpg" alt="Shop2" width="100" />
+
+<img src="assets/screenshots/shop1.jpg" alt="Shop1" width="120" /> <img src="assets/screenshots/shop2.jpg" alt="Shop2" width="120" />
 
 ### Bag (Keranjang)
 Menampilkan produk yang sudah ditambahkan ke keranjang. Pengguna dapat mengubah jumlah, menghapus produk, dan melanjutkan ke proses checkout.
-<img src="assets/screenshots/bag.jpg" alt="Bag" width="100" />
+<img src="assets/screenshots/bag.jpg" alt="Bag" width="120" />
 
 ### Favorites (Wishlist)
 Menampilkan produk favorit yang disimpan pengguna. Produk di sini dapat dipindahkan ke keranjang atau dihapus dari daftar favorit.
-<img src="assets/screenshots/favorites.jpg" alt="Favorites" width="100" />
+
+<img src="assets/screenshots/favorites.jpg" alt="Favorites" width="120" />
 
 ### Profile
 Menampilkan info pengguna, avatar, email, dan menu navigasi seperti pesanan, alamat, metode pembayaran, promo, ulasan, dan pengaturan akun.
-<img src="assets/screenshots/profile.jpg" alt="Profile" width="100" />
+
+<img src="assets/screenshots/profile.jpg" alt="Profile" width="120" />
 
 ### Product Detail
 Menampilkan detail produk: gambar, deskripsi, harga, rating, pilihan size dan warna, serta tombol untuk menambah ke keranjang. Gambar produk dapat digeser untuk melihat lebih detail.
-<img src="assets/screenshots/detailproduk.jpg" alt="DetailProduk" width="100" /> <img src="assets/screenshots/size.jpg" alt="Size" width="100" /> <img src="assets/screenshots/color.jpg" alt="Color" width="100" />
+
+<img src="assets/screenshots/detailproduk.jpg" alt="DetailProduk" width="120" /> <img src="assets/screenshots/size.jpg" alt="Size" width="120" /> <img src="assets/screenshots/color.jpg" alt="Color" width="120" />
 
 
 Aplikasi ini dapat dikembangkan lebih lanjut untuk integrasi backend, pembayaran online, dan fitur lain sesuai kebutuhan bisnis.
